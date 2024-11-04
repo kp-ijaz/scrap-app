@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824949223722",
+    "project_id": "scrap-app-eadef",
+    "storage_bucket": "scrap-app-eadef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824949223722:android:e52647a9790530bc0cee53",
+        "android_client_info": {
+          "package_name": "com.codexcelerate.scrap_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824949223722-4ianrghj0q13sius7bgmm51jacg12hdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hv4GOgZ4tLrSQSVcFMm5om7ySSUhGAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824949223722-4ianrghj0q13sius7bgmm51jacg12hdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
